@@ -1,0 +1,72 @@
+c:\users\adeel khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Data\bin\Debug\AbdulLCTest.Data.dll.config
+c:\users\adeel khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Data\bin\Debug\AbdulLCTest.Data.dll
+c:\users\adeel khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Data\bin\Debug\AbdulLCTest.Data.pdb
+c:\users\adeel khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Data\bin\Debug\EntityFramework.dll
+c:\users\adeel khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Data\bin\Debug\EntityFramework.SqlServer.dll
+c:\users\adeel khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+c:\users\adeel khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+c:\users\adeel khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Data\bin\Debug\EntityFramework.xml
+c:\users\adeel khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Data\bin\Debug\EntityFramework.SqlServer.xml
+c:\users\adeel khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+c:\users\adeel khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+c:\users\adeel khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Data\obj\Debug\AbdulLCTest.Data.dll
+c:\users\adeel khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Data\obj\Debug\AbdulLCTest.Data.pdb
+c:\users\adeel khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+c:\users\adeel khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Data\bin\Debug\Microsoft.Owin.dll
+c:\users\adeel khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Data\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+c:\users\adeel khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Data\bin\Debug\Microsoft.Owin.Security.dll
+c:\users\adeel khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Data\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+c:\users\adeel khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Data\bin\Debug\Newtonsoft.Json.dll
+c:\users\adeel khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Data\bin\Debug\Owin.dll
+c:\users\adeel khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Data\bin\Debug\System.Net.Http.Formatting.dll
+c:\users\adeel khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Data\bin\Debug\System.Web.Http.dll
+c:\users\adeel khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Data\bin\Debug\System.Web.Http.Owin.dll
+c:\users\adeel khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+c:\users\adeel khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Data\bin\Debug\Microsoft.Owin.xml
+c:\users\adeel khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Data\bin\Debug\Microsoft.Owin.Security.xml
+c:\users\adeel khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Data\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+c:\users\adeel khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Data\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+c:\users\adeel khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Data\bin\Debug\Newtonsoft.Json.xml
+c:\users\adeel khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Data\bin\Debug\System.Net.Http.Formatting.xml
+c:\users\adeel khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Data\bin\Debug\System.Web.Http.xml
+c:\users\adeel khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Data\bin\Debug\System.Web.Http.Owin.xml
+C:\Users\Adeel Khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Data\obj\Debug\AbdulLCTest.Data.Migrations.Init.resources
+C:\Users\Adeel Khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Data\obj\Debug\AbdulLCTest.Data.csproj.GenerateResource.Cache
+C:\Users\Adeel Khan\documents\visual studio 2015\Projects\AbdulLCTest\AbdulLCTest.Data\obj\Debug\AbdulLCTest.Data.csprojResolveAssemblyReference.cache
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\bin\Debug\AbdulLCTest.Data.dll.config
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\bin\Debug\AbdulLCTest.Data.dll
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\bin\Debug\AbdulLCTest.Data.pdb
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\bin\Debug\EntityFramework.dll
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\bin\Debug\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\bin\Debug\Microsoft.Owin.dll
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\bin\Debug\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\bin\Debug\Microsoft.Owin.Security.dll
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\bin\Debug\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\bin\Debug\Owin.dll
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\bin\Debug\System.Web.Http.dll
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\bin\Debug\System.Web.Http.Owin.dll
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\bin\Debug\EntityFramework.xml
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\bin\Debug\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\bin\Debug\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\bin\Debug\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\bin\Debug\Microsoft.Owin.xml
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\bin\Debug\Microsoft.Owin.Security.xml
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\bin\Debug\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\bin\Debug\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\bin\Debug\System.Web.Http.xml
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\bin\Debug\System.Web.Http.Owin.xml
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\obj\Debug\AbdulLCTest.Data.csproj.AssemblyReference.cache
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\obj\Debug\AbdulLCTest.Data.Migrations.Init.resources
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\obj\Debug\AbdulLCTest.Data.csproj.GenerateResource.cache
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\obj\Debug\AbdulLCTest.Data.csproj.CoreCompileInputs.cache
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\obj\Debug\AbdulLCTest.Data.csproj.CopyComplete
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\obj\Debug\AbdulLCTest.Data.dll
+C:\Users\Adeel Khan\Documents\Visual Studio 2017\Job Tech Test\AbdulLCPracticeTest\AbdulLCTest.Data\obj\Debug\AbdulLCTest.Data.pdb
